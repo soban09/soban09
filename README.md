@@ -6,12 +6,12 @@
 
 ### Feel Free to content with me .....
 
-![github](https://img.icons8.com/clouds/100/000000/github.png)
-![twitter](https://img.icons8.com/clouds/100/000000/twitter.png")
-![facebook](https://img.icons8.com/clouds/100/000000/facebook-new.png)
-![linkedin](https://img.icons8.com/clouds/100/000000/linkedin.png)
-![instagram](https://img.icons8.com/clouds/100/000000/instagram.png)
-![gmail](https://img.icons8.com/clouds/100/000000/gmail.png)
+![github](https://img.icons8.com/clouds/100/000000/github.png | width=25)
+![twitter](https://img.icons8.com/clouds/100/000000/twitter.png | width=25)
+![facebook](https://img.icons8.com/clouds/100/000000/facebook-new.png | width=25)
+![linkedin](https://img.icons8.com/clouds/100/000000/linkedin.png | width=25)
+![instagram](https://img.icons8.com/clouds/100/000000/instagram.png | width=25)
+![gmail](https://img.icons8.com/clouds/100/000000/gmail.png | width=25)
 
 
 
