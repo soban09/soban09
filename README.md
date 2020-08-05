@@ -1,8 +1,8 @@
- ## Hi there, I'm Akash Patel - aka [imakash3011]
+## Hi there, I'm Akash Patel - aka [imakash3011]
 
- I'm Developer | Programmer | Learner
- Currently Learning Java, Python, Web Development And Machine Learning
- Willing to contribute more and more in Open Source Projects
+- I'm Developer | Programmer | Learner
+- Currently Learning Java, Python, Web Development And Machine Learning
+-  Willing to contribute more and more in Open Source Projects
 
 <p align="center">
 	<a href="https://github.com/imakash3011"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
