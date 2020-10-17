@@ -10,7 +10,7 @@
 - Willing to contribute more and more in **Open Source Projects**
 
 
-#### Feel Free to Contact me.....
+### Feel Free to Contact me.....
 
 <p align="center">
 	<a href="https://github.com/imakash3011"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
@@ -27,6 +27,10 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 </p>
+
+#### Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{imakash3011}/count.svg)
+
 
 
 
