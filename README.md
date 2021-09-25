@@ -5,8 +5,9 @@
 </p>
 
 
-- I'm  **Learner** | **Programmer** | **ML & DS Enthusiast**
-- Currently Learning **Java**, **Python**, **Web Development** And **Machine Learning**
+- I'm  **Learner** | **Programmer** 
+- About me :- **Kaggle Master** | **ML & DS Enthusiast**
+- Currently practicing **Deep Learning**
 - Willing to contribute more and more in **Open Source Projects**
 
 
