@@ -5,10 +5,10 @@
 </p>
 
 
-- I'm  **Learner** | **Programmer** 
-- About me :- **Kaggle Master** | **ML & DS Enthusiast**
-- Currently practicing **Deep Learning**
-- Willing to contribute more and more in **Open Source Projects**
+- I'm a **Learner** | **Programmer** 
+- About me :- **2x Kaggle Master** | **ML & DS Enthusiast**
+- Currently **Working as Data Science Intern @ZIGRAM, Gurgaon**
+- Willing to contribute more and more in **Data Science and Machine Learning Related Porjects**
 
 
 ### Feel Free to Contact me.....
