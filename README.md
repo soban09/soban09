@@ -1,7 +1,8 @@
 ## Hi there, I'm Soban Farooq
 
 <p align="center">
-<img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
+<!-- <img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/> -->
+<img width="20%" src="https://img.icons8.com/stickers/100/null/programming.png"/>
 </p>
 
 
